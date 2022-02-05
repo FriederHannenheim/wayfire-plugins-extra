@@ -1,4 +1,5 @@
 # wayfire-plugins-extra
+# Magnifier does not work in this fork. This is just a quick fix to make it build since I'm not using the magnifier plugin
 Additional plugins for Wayfire
 
 This is a place for plugins that have external dependencies, debugging purposes or otherwise will not be included with wayfire core plugins.
